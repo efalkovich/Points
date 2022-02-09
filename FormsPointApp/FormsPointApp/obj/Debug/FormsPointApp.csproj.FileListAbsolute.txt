@@ -1,0 +1,17 @@
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\bin\Debug\FormsPointApp.exe.config
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\bin\Debug\FormsPointApp.exe
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\bin\Debug\FormsPointApp.pdb
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.csproj.AssemblyReference.cache
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.Properties.Resources.resources
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.csproj.GenerateResource.cache
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.csproj.CoreCompileInputs.cache
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.exe
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.pdb
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\bin\Debug\PointLib.dll
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\bin\Debug\PointLib.pdb
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\bin\Debug\PointLib.xml
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.PointForm.resources
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\obj\Debug\FormsPointApp.csproj.CopyComplete
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\efalk\source\repos\FormsPointApp\FormsPointApp\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,10 @@
+C:\Users\efalk\source\repos\PointLib\PointLib\bin\Debug\PointLib.dll
+C:\Users\efalk\source\repos\PointLib\PointLib\bin\Debug\PointLib.pdb
+C:\Users\efalk\source\repos\PointLib\PointLib\bin\Debug\PointLib.xml
+C:\Users\efalk\source\repos\PointLib\PointLib\obj\Debug\PointLib.vbproj.AssemblyReference.cache
+C:\Users\efalk\source\repos\PointLib\PointLib\obj\Debug\PointLib.Resources.resources
+C:\Users\efalk\source\repos\PointLib\PointLib\obj\Debug\PointLib.vbproj.GenerateResource.cache
+C:\Users\efalk\source\repos\PointLib\PointLib\obj\Debug\PointLib.vbproj.CoreCompileInputs.cache
+C:\Users\efalk\source\repos\PointLib\PointLib\obj\Debug\PointLib.dll
+C:\Users\efalk\source\repos\PointLib\PointLib\obj\Debug\PointLib.xml
+C:\Users\efalk\source\repos\PointLib\PointLib\obj\Debug\PointLib.pdb

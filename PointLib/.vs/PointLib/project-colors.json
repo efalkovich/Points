@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d03e604c-7c5c-423a-bc40-4be385f2d381": {
+      "ProjectGuid": "d03e604c-7c5c-423a-bc40-4be385f2d381",
+      "DisplayName": "PointLib",
+      "ColorIndex": 0
+    },
+    "696123d5-7fcd-4441-ae3c-208da8348c59": {
+      "ProjectGuid": "696123d5-7fcd-4441-ae3c-208da8348c59",
+      "DisplayName": "FormsPointApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
